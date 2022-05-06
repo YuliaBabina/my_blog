@@ -4,7 +4,7 @@
 title: "Week1"
 subtitle: ""
 summary: ""
-authors: []
+authors: [Юлия]
 tags: []
 categories: []
 date: 2022-05-06T20:28:18+03:00
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Улыбка-единственный тренд в моде, который актуален всегда.
